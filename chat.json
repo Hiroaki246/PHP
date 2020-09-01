@@ -1,0 +1,6 @@
+[
+  { "name": "Tom", "color": "blue", "message": "Hello from Tom!" },
+  { "name": "Mike", "color": "green", "message": "Hello from Mike!" },
+  { "name": "Ken", "color": "red", "message": "Hello from Ken!" },
+  { "name": "Mark", "color": "black", "message": "Hello people" }
+]
